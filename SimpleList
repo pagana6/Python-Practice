@@ -1,0 +1,9 @@
+#!/usr/bin/python
+#Addition of two lists
+
+list1 = input("Enter the list ")
+list2 = input("Enter the other list")
+
+list3 = list1 + list2
+
+print "Concatenation of two lists are ", list3
